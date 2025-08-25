@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS 
 
-Data: 2025-08-25 
-Empresa: Abstergo Industries (Setor Farmacêutico citado no desafio solicitado pelo Bootcamp da DIO)  
-Responsável: Otavio Senra
+- Data: 2025-08-25
+- Empresa: Abstergo Industries (Setor Farmacêutico citado no desafio solicitado pelo Bootcamp da DIO)  
+- Responsável: Otavio Senra
 
 ---
 
